@@ -8,16 +8,21 @@
 }
 
 .u-section-1 .u-text-1 {
-  margin: 60px auto 0;
+  margin: 126px auto 0;
 }
 
 .u-section-1 .u-btn-1 {
+  align-self: center;
+  border-style: none;
+  font-weight: 700;
   text-transform: uppercase;
-  margin: 20px auto 0;
+  letter-spacing: 1px;
+  margin: 32px auto 0;
+  padding: 17px 30px 18px;
 }
 
 .u-section-1 .u-text-2 {
-  margin: 30px 20px 60px;
+  margin: 20px 20px 60px;
 }
 
 @media (max-width: 1199px) {
@@ -28,7 +33,6 @@
   .u-section-1 .u-text-2 {
     margin-left: 0;
     margin-right: 0;
-    margin-bottom: 0;
   }
 }
 
